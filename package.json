@@ -1,0 +1,27 @@
+{
+  "name": "damncomma",
+  "version": "0.0.1",
+  "description": "Remove the damn comma, thereby enabling times of peace to once again settle upon the realm.",
+  "homepage": "https://github.com/exratione/damncomma",
+  "main": "./index.js",
+  "keywords": [
+	"damn",
+	"comma"
+  ],
+  "engine": {
+    "node": ">=0.4.7"
+  },
+  "author": {
+    "name": "Reason",
+    "email": "reason@exratione.com",
+    "url": "http://www.exratione.com"
+  },
+  "repository": { 
+    "type": "git",
+    "url": "https://github.com/exratione/damncomma"
+  },
+  "licenses" : [{
+    "type" : "MIT",
+    "url" : "https://github.com/exratione/damncomma/raw/master/LICENSE"
+  }]
+}

@@ -42,4 +42,4 @@ By introducing a little trivial preprocessing into require() and JSON.parse() to
 
 ### Why Would I Even Use This?
 
-Because you enjoy loosing an annoying language feature and gaining the nebulous uncertainty that comes with introducing possibly deep and unexpected bugs. After all, who doesn't enjoy preprocessing the source code before it goes anywhere near a compiler or interpreter, such that it bears no semblance to what was written? Why, some of the most successful languages in history are practically built on that foundation - you'll be standing on the shoulders of giants!
+Because you enjoy losing an annoying language feature and gaining the nebulous uncertainty that comes with introducing possibly deep and unexpected bugs. After all, who doesn't enjoy preprocessing the source code before it goes anywhere near a compiler or interpreter, such that it bears no semblance to what was written? Why, some of the most successful languages in history are practically built on that foundation - you'll be standing on the shoulders of giants!

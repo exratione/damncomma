@@ -18,7 +18,7 @@
   },
   "repository": { 
     "type": "git",
-    "url": "https://github.com/exratione/damncomma"
+    "url": "http://github.com/exratione/damncomma.git"
   },
   "licenses" : [{
     "type" : "MIT",
